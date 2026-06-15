@@ -1,6 +1,6 @@
 {
   "versionCode": 4,
   "versionName": "1.2.1",
-  "apkUrl": "https://github.com/FALCONYU/jz-ozkclb91wr9we5hv-/releases/download/v1.2.1/app-debug.apk",
+  "apkUrl": "https://github.com/FALCONYU/jz-ozkclb91wr9we5hv-/releases/download/v{versionName}/app-debug.apk",
   "changelog": "- 更新更新逻辑\n- 测试"
 }
