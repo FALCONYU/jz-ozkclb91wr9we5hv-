@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "1.2.3",
+  "versionCode": 7,
+  "versionName": "1.2.4",
   "apkUrl": "https://github.com/FALCONYU/jz-ozkclb91wr9we5hv-/releases/download/v{versionName}/app-debug.apk",
-  "changelog": "- 修改统计干重的计算方式\n- 合并进设置中"
+  "changelog": "- 修改统计干重的bug\n- 2026.07.07"
 }
