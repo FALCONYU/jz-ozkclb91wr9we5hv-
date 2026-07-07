@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "1.2.4",
+  "versionCode": 8,
+  "versionName": "1.2.5",
   "apkUrl": "https://github.com/FALCONYU/jz-ozkclb91wr9we5hv-/releases/download/v{versionName}/app-debug.apk",
-  "changelog": "- 修改统计干重的bug\n- 2026.07.07"
+  "changelog": "- 添加肥水养护\n- 2026.07.07"
 }
