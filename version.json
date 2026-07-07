@@ -2,5 +2,5 @@
   "versionCode": 11,
   "versionName": "1.2.8",
   "apkUrl": "https://github.com/FALCONYU/jz-ozkclb91wr9we5hv-/releases/download/v{versionName}/app-debug.apk",
-  "changelog": "- 修复天气窗口\n- 优化定位逻辑\n- 2026.07.07"
+  "changelog": "- 修复天气窗口bug\n- 优化定位逻辑\n- 2026.07.07"
 }
