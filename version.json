@@ -1,6 +1,6 @@
 {
-  "versionCode": 13,
-  "versionName": "1.2.10",
+  "versionCode": 14,
+  "versionName": "2.0.0",
   "apkUrl": "https://github.com/FALCONYU/jz-ozkclb91wr9we5hv-/releases/download/v{versionName}/app-debug.apk",
-  "changelog": "- 修复天气窗口bug\n- 优化定位逻辑\n- 2026.07.07"
+  "changelog": "- 调整整个窗口的显示切换逻辑\n- 优化显示效果\n- 2026.07.16"
 }
